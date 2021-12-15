@@ -2,9 +2,9 @@ package snakes
 
 import (
 	"fmt"
-	"github.com/borodun/nsu-nets/lab4/snakes/proto"
-	"github.com/borodun/nsu-nets/lab4/snakes/utils"
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/ikolesnikov1/lab4snake/snakes/proto"
+	"github.com/ikolesnikov1/lab4snake/snakes/utils"
 	"log"
 	"net"
 	"strings"

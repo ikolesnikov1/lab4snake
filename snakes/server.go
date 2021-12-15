@@ -2,8 +2,8 @@ package snakes
 
 import (
 	"fmt"
-	"github.com/borodun/nsu-nets/lab4/snakes/proto"
-	"github.com/borodun/nsu-nets/lab4/snakes/utils"
+	"github.com/ikolesnikov1/lab4snake/snakes/proto"
+	"github.com/ikolesnikov1/lab4snake/snakes/utils"
 	"log"
 	"math/rand"
 	"net"

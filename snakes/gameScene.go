@@ -1,9 +1,9 @@
 package snakes
 
 import (
-	"github.com/borodun/nsu-nets/lab4/snakes/utils"
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/ikolesnikov/lab4snake/snakes/proto"
+	"github.com/ikolesnikov1/lab4snake/snakes/proto"
+	"github.com/ikolesnikov1/lab4snake/snakes/utils"
 	"image"
 	"log"
 	"math"

@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"github.com/borodun/nsu-nets/lab4/snakes/proto"
+	"github.com/ikolesnikov1/lab4snake/snakes/proto"
 	"github.com/spf13/viper"
 	"log"
 	"math/rand"

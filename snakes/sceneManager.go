@@ -1,8 +1,8 @@
 package snakes
 
 import (
-	"github.com/borodun/nsu-nets/lab4/snakes/proto"
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/ikolesnikov1/lab4snake/snakes/proto"
 )
 
 var (
