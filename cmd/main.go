@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/borodun/nsu-nets/lab4/snakes"
+	"lab4snake/snakes"
 )
 
 func main() {
